@@ -14,7 +14,7 @@ a{
     border: 0;
     border-radius: 3px;
 }
-a:hover{color: aqua;}
+a:hover{color: aqua;text-decoration: underline;}
 header{
     text-align: center;
     font-size: 1.3rem;
